@@ -1,0 +1,11 @@
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/bin/iPhoneSimulator/Debug/AlertControlApp.exe
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/bin/iPhoneSimulator/Debug/AlertControlApp.pdb
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/optimized/
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/AlertControlApp.csproj.CoreCompileInputs.cache
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/AlertControlApp.exe
+/Users/developersancho/VisualStudioProjects/XamiOS/AlertControlApp/obj/iPhoneSimulator/Debug/AlertControlApp.pdb

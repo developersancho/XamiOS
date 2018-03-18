@@ -1,0 +1,11 @@
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/bin/iPhoneSimulator/Debug/PageNavigationApp.exe
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/bin/iPhoneSimulator/Debug/PageNavigationApp.pdb
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/optimized/
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/PageNavigationApp.csproj.CoreCompileInputs.cache
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/PageNavigationApp.exe
+/Users/developersancho/VisualStudioProjects/XamiOS/PageNavigationApp/obj/iPhoneSimulator/Debug/PageNavigationApp.pdb

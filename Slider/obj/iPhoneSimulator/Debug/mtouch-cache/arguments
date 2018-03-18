@@ -1,0 +1,22 @@
+# Version: 11.8.0.20 (d15-6: 1c6f300e)
+# [first argument, ignore] # --cache=/Users/developersancho/VisualStudioProjects/XamiOS/Slider/obj/iPhoneSimulator/Debug/mtouch-cache
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mtouch/mtouch.exe \
+	--sim=/Users/developersancho/VisualStudioProjects/XamiOS/Slider/bin/iPhoneSimulator/Debug/Slider.app \
+	--executable=Slider \
+	--debug \
+	--nolink \
+	--sdkroot=/Applications/Xcode-beta.app/Contents/Developer \
+	--sdk=11.3 \
+	--targetver=11.2 \
+	--aot-options=-O=-float32 \
+	--http-message-handler=HttpClientHandler \
+	--abi=x86_64 \
+	--symbollist=/Users/developersancho/VisualStudioProjects/XamiOS/Slider/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	'--target-framework=Xamarin.iOS,v1.0' \
+	--root-assembly=/Users/developersancho/VisualStudioProjects/XamiOS/Slider/bin/iPhoneSimulator/Debug/Slider.exe \

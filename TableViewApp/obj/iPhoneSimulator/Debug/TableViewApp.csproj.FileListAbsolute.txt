@@ -1,0 +1,11 @@
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/bin/iPhoneSimulator/Debug/TableViewApp.exe
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/bin/iPhoneSimulator/Debug/TableViewApp.pdb
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/optimized/
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/TableViewApp.csproj.CoreCompileInputs.cache
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/TableViewApp.exe
+/Users/developersancho/VisualStudioProjects/XamiOS/TableViewApp/obj/iPhoneSimulator/Debug/TableViewApp.pdb

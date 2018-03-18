@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8C21D43E-138A-47C0-971A-6408B9A30A34}|Default">
+  <MonoDevelop.Ide.ItemProperties.06-AlertControl.AlertControlApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65146004-45D5-442E-AA07-F43280FD09F5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.06-AlertControl.AlertControlApp>
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.08-TableViewCell.TableViewCellApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.99AA9617-2022-4625-843C-380E87C9D488">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.08-TableViewCell.TableViewCellApp>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.02-UISlider.Slider PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65146004-45D5-442E-AA07-F43280FD09F5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.02-UISlider.Slider>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01-HelloWorld.HelloWorld PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65146004-45D5-442E-AA07-F43280FD09F5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.01-HelloWorld.HelloWorld>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04-PageNavigation.PageNavigationApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65146004-45D5-442E-AA07-F43280FD09F5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.04-PageNavigation.PageNavigationApp>
+  <MonoDevelop.Ide.ItemProperties.07-Toolbar.ToolbarApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.99AA9617-2022-4625-843C-380E87C9D488">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.07-Toolbar.ToolbarApp>
+  <MonoDevelop.Ide.ItemProperties.03-TableView.TableViewApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65146004-45D5-442E-AA07-F43280FD09F5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.03-TableView.TableViewApp>
+  <MonoDevelop.Ide.ItemProperties.05-SegmentedControl.SegmentedControlApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.65146004-45D5-442E-AA07-F43280FD09F5">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.05-SegmentedControl.SegmentedControlApp>
+</Properties>
